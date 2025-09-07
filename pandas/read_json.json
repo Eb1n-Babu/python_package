@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Aarav Nair",
+      "age": 29,
+      "email": "aarav.nair@example.com",
+      "is_active": true,
+      "roles": ["admin", "editor"]
+    },
+    {
+      "id": "user_002",
+      "name": "Meera Thomas",
+      "age": 34,
+      "email": "meera.thomas@example.com",
+      "is_active": false,
+      "roles": ["viewer"]
+    },
+    {
+      "id": "user_003",
+      "name": "Ravi Menon",
+      "age": 41,
+      "email": "ravi.menon@example.com",
+      "is_active": true,
+      "roles": ["editor", "contributor"]
+    }
+  ]
+}

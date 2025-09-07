@@ -1,0 +1,4 @@
+UserID,Name,Age,Email,IsActive,Roles
+user_001,Aarav Nair,29,aarav.nair@example.com,TRUE,"admin;editor"
+user_002,Meera Thomas,34,meera.thomas@example.com,FALSE,"viewer"
+user_003,Ravi Menon,41,ravi.menon@example.com,TRUE,"editor;contributor"
