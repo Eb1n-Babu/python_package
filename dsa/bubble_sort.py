@@ -15,8 +15,9 @@ for i in range(len(y)+1):
     for j in range(len(y)-1):
         if y[j] > y[j+1]:
             y[j], y[j+1] = y[j+1], y[j]
-            plt.plot(y,drawstyle='steps-post')
+            plt.plot(y)
             plt.show()
+            plt.close()
 print(y)
 
 
